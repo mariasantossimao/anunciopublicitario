@@ -1,0 +1,19 @@
+  body {
+   background-image: linear-gradient(#b3ffff,#91fcfb,#6ffaf0);
+   color: #1d0c20
+    font-size 35px;
+
+
+h1{
+     color:#1d0c20;
+  }
+
+  h2{
+    background-color: #333133;
+    color: #ffffff;
+  }
+
+  img{
+    width: 500px;
+    height: 300px;
+  }
